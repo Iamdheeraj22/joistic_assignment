@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "644982611103",
+    "project_id": "joistic-interview-assignment",
+    "storage_bucket": "joistic-interview-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644982611103:android:85ae29b04e1cb8465a96aa",
+        "android_client_info": {
+          "package_name": "com.joistic_assignment.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644982611103-tgl2aq36gb4u4vt0v77bml9gjkc6qtkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwXxTpl1f3P_bLIxQhE3XX96fcW1i4ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644982611103-tgl2aq36gb4u4vt0v77bml9gjkc6qtkj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "644982611103-irs2bm1kupafdfv8lg2o3vtq9sde56d8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.joisticassignment.app.joisticInterviewAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
